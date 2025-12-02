@@ -8,5 +8,5 @@ I'm a developer who enjoys working on various projects and exploring new technol
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Javascript, PHP, Python, CSS, HTML
+- **Languages:** Javascript, Typescript, PHP, Python, CSS, HTML
 - **Frameworks:** Vue.js, React, Laravel
